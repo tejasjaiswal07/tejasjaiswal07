@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [TinDog version 2](https://adogsite.netlify.app/)
 
-- 🌱 I’m currently learning **UX**
+- 🌱 I’m currently learning **AI**
 
 - 👨‍💻 All of my projects are available at [https://adogsite.netlify.app/](https://adogsite.netlify.app/)
 
@@ -16,7 +16,6 @@
 
 - 📫 How to reach me **tejasjaiswal852@gmail.com**
 
-- ⚡ Fun fact **I think i am not funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
