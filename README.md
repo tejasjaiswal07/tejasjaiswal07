@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasjaiswal07&label=Profile%20views&color=0e75b6&style=flat" alt="tejasjaiswal07" /> </p>
 
-<p align="left"> <a href="https://twitter.com/1tejasjaiswal" target="_blank"><img src="https://img.shields.io/twitter/follow/1tejasjaiswal?logo=twitter&style=for-the-badge" alt="1tejasjaiswal" /></a> </p>
+<p align="left"> <a href="https://twitter.com/1tejasjaiswal" target="__blank"><img src="https://img.shields.io/twitter/follow/1tejasjaiswal?logo=twitter&style=for-the-badge" alt="1tejasjaiswal" /></a> </p>
 
 - 🔭 I’m currently working on [TinDog version 2](https://adogsite.netlify.app/)
 
