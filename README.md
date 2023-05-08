@@ -6,15 +6,17 @@
 
 <p align="left"> <a href="https://twitter.com/1tejasjaiswal" target="__blank"><img src="https://img.shields.io/twitter/follow/1tejasjaiswal?logo=twitter&style=for-the-badge" alt="1tejasjaiswal" /></a> </p>
 
-- 🔭 I’m currently working on [TinDog version 2](https://adogsite.netlify.app/)
+- 🔭 I’m currently working on DSA
 
 - 🌱 I’m currently learning **AI**
 
-- 👨‍💻 All of my projects are available at [https://adogsite.netlify.app/](https://adogsite.netlify.app/)
+- 👨‍💻 All of my projects are available at {COMING SOON}
 
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **tejasjaiswal852@gmail.com**
+
+- fUN Fact - I show up even if i don't like it.
 
 
 <h3 align="left">Connect with me:</h3>
