@@ -14,9 +14,9 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **tejasjaiswal852@gmail.com**
+- 📫 How to reach me **tejasjaiswal25@gmail.com**
 
-- fUN Fact - I show up even if i don't like it.
+- Fun Fact - I show up even if i don't like it.
 
 
 <h3 align="left">Connect with me:</h3>
