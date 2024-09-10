@@ -1,35 +1,84 @@
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
- <h1 align="center">Hi 👋, I'm Tejas Jaiswal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi there, I'm Tejas! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasjaiswal07&label=Profile%20views&color=0e75b6&style=flat" alt="tejasjaiswal07" /> </p>
+I'm a passionate **software developer** who loves crafting scalable and efficient solutions to complex business challenges. With a strong focus on **startups**, **machine learning**, and **innovative technologies**, I enjoy working at the intersection of technology and entrepreneurship.
 
-<p align="left"> <a href="https://twitter.com/1tejasjaiswal" target="__blank"><img src="https://img.shields.io/twitter/follow/1tejasjaiswal?logo=twitter&style=for-the-badge" alt="1tejasjaiswal" /></a> </p>
+When I'm not coding, you can find me discussing tech trends, stargazing, playing sports, or contemplating the mysteries of life. Let's connect, collaborate, and build something amazing together!
 
-- 🔭 I’m currently working on DSA
+---
 
-- 🌱 I’m currently learning **AI**
+### 🌟 About Me
 
-- 👨‍💻 All of my projects are available at {COMING SOON}
+- 💼 Software Developer with a knack for problem-solving and creativity.
+- 🚀 Currently exploring advanced topics in **Machine Learning** and **Data Science**.
+- 🎯 Strong believer in continuous learning and personal growth.
+- 🌱 I'm always open to new opportunities, collaborations, and learning experiences!
 
-- 💬 Ask me about **React**
+---
 
-- 📫 How to reach me **tejasjaiswal25@gmail.com**
+### 🛠️ My Tech Toolbox
 
-- Fun Fact - I show up even if i don't like it.
+**Languages:**
 
+![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-ffde57?style=for-the-badge&logo=python&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-044f88?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/1tejasjaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1tejasjaiswal" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/tejas-jaiswal-b37557240/" target="blank"><img align="center" src="https://img.icons8.com/?size=96&id=13930&format=png" alt="Tejas Jaiswal" height="40" width="40" /></a>
-</p>
+**Frameworks and Libraries:**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+![Node.js](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasjaiswal07&show_icons=true&locale=en&layout=compact" alt="tejasjaiswal07" /></p>
+**Databases:**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejasjaiswal07&show_icons=true&locale=en" alt="tejasjaiswal07" /></p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejasjaiswal07&" alt="tejasjaiswal07" /></p>
+**Tools and Platforms:**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)
+
+---
+
+### 🌍 Let's Connect!
+
+I'm always open to discussing technology, new ideas, or just having a good chat! Feel free to reach out to me on any of these platforms:
+
+[![LinkedIn Badge](https://img.shields.io/badge/-Tejas-0072b1?style=flat&labelColor=0072b1&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-jaiswal-b37557240/)
+[![Gmail Badge](https://img.shields.io/badge/-tejasjaisawal@gmail.com-ea4335?style=flat&labelColor=ea4335&logo=gmail&logoColor=white)](mailto:tejasjaiswal25@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@1TejasJaiswal-1D9bf0?style=flat&labelColor=1D9bf0&logo=twitter&logoColor=white)](https://twitter.com/1TejasJaiswal)
+
+---
+
+### 📈 GitHub Stats
+
+![Tejas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejasjaiswal07&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejasjaiswal07&layout=compact&theme=dark)
+
+---
+
+### 📸 Featured Projects
+
+- **[Project One](https://github.com/yourusername/project-one)**: 
+- **[Project Two](https://github.com/yourusername/project-two)**: 
+- **[Project Three](https://github.com/yourusername/project-three)**:
+
+---
+
+### 🎉 Fun Facts
+
+- 🌌 **Astronomy Enthusiast**: I love stargazing and learning about the cosmos.
+- 🏀 **Sports Lover**: Cricket is my go-to sport!
+- 📚 **Lifelong Learner**: Always on the lookout for new knowledge and skills.
+
+---
+
+Feel free to connect, collaborate, or just say hi! Looking forward to hearing from you. 😊
