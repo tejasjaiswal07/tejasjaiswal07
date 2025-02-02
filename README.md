@@ -68,7 +68,7 @@ I'm always open to discussing technology, new ideas, or just having a good chat!
 ### 📸 Featured Projects
 
 - **[Mystery Message](https://github.com/tejasjaiswal07/mistry-message)**: 
-- **[Project Two](https://github.com/yourusername/project-two)**: 
+- **[WriteBot](https://github.com/tejasjaiswal07/writeBot/tree/master)**: 
 - **[Project Three](https://github.com/yourusername/project-three)**:
 
 ---
