@@ -69,7 +69,7 @@ I'm always open to discussing technology, new ideas, or just having a good chat!
 
 - **[Mystery Message](https://github.com/tejasjaiswal07/mistry-message)**: 
 - **[WriteBot](https://github.com/tejasjaiswal07/writeBot/tree/master)**: 
-- **[Project Three](https://github.com/yourusername/project-three)**:
+- **[Portfolio](https://tejas-portfolio-ruddy.vercel.app/)**:
 
 ---
 
